@@ -1,3 +1,7 @@
+/*
+Given string is a word or number
+*/
+
 %{
 #include<stdio.h>
 int isEntered = 0;
