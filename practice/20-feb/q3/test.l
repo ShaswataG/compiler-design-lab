@@ -1,3 +1,7 @@
+/*
+Flex program to check if it is a well formed parenthesis or not
+*/
+
 %{
 #include<stdio.h>
 #include<string.h>
