@@ -22,6 +22,7 @@ Find whether a letter is vowel or not
 int main() {
     printf("\nEnter a string: ");
     yylex();
+    return 0;
 }
 
 int yywrap() {
