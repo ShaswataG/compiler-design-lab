@@ -1,3 +1,6 @@
+/*
+Flex program to implement positive closure
+*/
 %{
 #include<stdio.h>
 int count = 0;
