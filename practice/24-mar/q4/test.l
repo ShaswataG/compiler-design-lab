@@ -1,3 +1,7 @@
+/*
+Design a finite automata for recognizing keywords like if, else, while and return
+*/
+
 %{
 #include<stdio.h>
 int flag = 0;
